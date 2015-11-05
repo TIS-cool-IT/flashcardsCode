@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("hey COOOL IT !");
         // Slavka je tu
-        //maťo
+        //maťo zmena
     }
 }
